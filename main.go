@@ -3,6 +3,7 @@ package main
 import (
 	"go_pointers_tasks/odev1"
 	"go_pointers_tasks/odev2"
+	"go_pointers_tasks/odev3"
 )
 
 func main() {
@@ -15,4 +16,9 @@ func main() {
 	odev2.Odev2_1()
 	odev2.Odev2_2()
 	odev2.Odev2_3()
+
+	//3.Seviye Ödevler
+	odev3.Odev3_1()
+	odev3.Odev3_2()
+	odev3.Odev3_3()
 }
